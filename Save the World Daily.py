@@ -668,4 +668,4 @@ async def slashdaily(ctx, token=''):
 
 # noinspection SpellCheckingInspection
 client.loop.create_task(update_status())
-client.run('token')
+client.run('OTI5NzU0ODA1MjEwMDU0NzI3.Ydr7ow.YeUoxjfMHqn7aRjcFiH1odgGzeU')
